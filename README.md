@@ -16,9 +16,9 @@ This project implements a basic WebSocket server and a simple client using Node.
     node index.js
 
 3. **Locate the Client File**
-   ```bash
-   Find the client.html file in your project directory.
+
+- Find the client.html file in your project directory.
 
 4. **Open the Client**
-    ```bash
-    Open client.html in a web browser to start the WebSocket client.
+
+- Open client.html in a web browser to start the WebSocket client.
